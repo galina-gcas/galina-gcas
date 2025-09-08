@@ -9,7 +9,7 @@ My techie website 🖥 — a vibe-coded one — as well as general info on my te
 
 ### My portfolio projects to first look into:
 
-1. A mortgage calculator (in Russian): try (https://project1-mortgage.onrender.com) and view code (https://github.com/galina-gcas/project1-mortgage).
+1. A mortgage calculator (in Russian): try (https://galinagcas.pythonanywhere.com/) and view code (https://github.com/galina-gcas/project1-mortgage).
 
 This list is being updated as well.
 
