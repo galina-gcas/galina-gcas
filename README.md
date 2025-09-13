@@ -5,7 +5,7 @@ I am Galina GCAS.
 
 Here I present my portfolio on my **vibe coding work** and a bit about my own entrepreneurship projects made with AI!
 
-My techie website 🖥 — a vibe-coded one — as well as general info on my tech expertise can be found here: (a link will be here soon).
+My techie website 🖥 — a vibe-coded one — as well as general info on my tech expertise can be found here: (https://galina-gcas.github.io/portfolio/).
 
 ### My portfolio projects to first look into:
 
