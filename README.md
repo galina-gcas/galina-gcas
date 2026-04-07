@@ -3,15 +3,27 @@
 I am Galina GCAS. 
 *(GCAS is a cosmic abbr)*
 
-My techie website 🖥 — a vibe-coded one — as well as general info on my tech expertise can be found here: (https://galina-gcas.github.io/portfolio/).
+I'm Cassiopeian on Earth.
 
 ### The languages I "speak"
-- Russian, English, Deutsch, Spanish
+- Russian, English, Deutsch, Spanish, Finnish
 - JavaScript, Python.
 
-### The LLMs and neural network services I mostly talk to
-- QWEN
+### Things I'm working on
+- green technology
+- automation for my work
 
+### 💬 Ask me about
+- the Universe
+- astrology
+- Tarot cards
+
+### 🌱 I’m currently learning
+- gardening
+- solar panels
+
+### 📫 How to reach me:
+- galina.gcas@gmail.com, @galina_gcas in most social networks.
 <!--
 **galina-gcas/galina-gcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
